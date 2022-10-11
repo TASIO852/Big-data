@@ -190,7 +190,7 @@ O Amazon ML aceita três tipos de modelos de ML: classificação binária, class
 
 O foco de um pipeline de machine learning é dividir uma tarefa completa de machine learning em um fluxo de trabalho de várias etapas. Cada etapa é um componente gerenciável que pode ser desenvolvido, otimizado, configurado e automatizado individualmente. As etapas são conectadas por meio de interfaces bem definidas.
 
-![pipeline](Images/Machine%20learn/PipelineMl.PNG)
+![pipeline](Images/Machine%20learn/Pipeline%20ml.PNG)
 # Iniciar um projeto big data
 
 - definição do business case
