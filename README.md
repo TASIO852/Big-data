@@ -125,6 +125,7 @@ DataOps é um conjunto de práticas, processos e tecnologias que combina uma per
 
 ![DataOps](Images/DevOps/data%20ops%202.PNG)
 ![DataOps](Images/DevOps/Data%20ops%201.PNG)
+
 ## Cargos e funções de cada um nos modelos
 
 - Arquiteto de dados
@@ -134,6 +135,7 @@ DataOps é um conjunto de práticas, processos e tecnologias que combina uma per
 - Analista de dados
 
 ![linha de produçao](Images/DevOps/Linha%20de%20produ%C3%A7ao%20data%20ops.PNG)
+
 # Daas (Data service para o futuro)
 
 DaaS, oferece acesso on-line às bases de dados via interfaces JDBC ou ODBC, com controle de acesso e auditoria de uso. Nele estão disponíveis bases de governo hospedadas no Serpro - com a devida autorização do gestor, bem como bases de domínio público ou ainda outras sob demanda.
@@ -142,6 +144,7 @@ DaaS, oferece acesso on-line às bases de dados via interfaces JDBC ou ODBC, com
 - API software de Integração
 
 ![Dass](Images/Arquiteturas/Arquitetura%20Daas.PNG)
+
 # ETL e ELT
 
 _ETL_
@@ -153,6 +156,7 @@ _ELT_
 Extrair, carregar, transformar é uma alternativa para extrair, transformar, carregar usado com implementações de data lake. Ao contrário do ETL, nos modelos ELT, os dados não são transformados na entrada no data lake, mas armazenados em seu formato bruto original. Isso permite tempos de carregamento mais rápidos
 
 ![ETL e ELT](Images/Arquiteturas/ETL%20x%20ELT.png)
+
 ## Alternativas em nuvem
 
 - AWS glue
@@ -164,11 +168,13 @@ Extrair, carregar, transformar é uma alternativa para extrair, transformar, car
 O aprendizado automático ou a aprendizagem automática ou também aprendizado de máquina ou aprendizagem de máquina é um subcampo da Engenharia e da ciência da computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
 
 ![ml](Images/Machine%20learn/Ml.PNG)
+
 ## Modelos de pipeline
 
 O Amazon ML aceita três tipos de modelos de ML: classificação binária, classificação multiclasse e regressão. O tipo de modelo que você deve escolher depende do tipo de destino que deseja prever.
 
 ![modelos](Images/Machine%20learn/Inteligencia%20artificial%20niveis.jpg)
+
 ## Etapas
 
 1.Coleta de dados. Depois de determinar exatamente o que se deseja e quais serão os equipamentos utilizados, a primeira etapa do machine learning é a coleta de dados.
@@ -186,11 +192,13 @@ O Amazon ML aceita três tipos de modelos de ML: classificação binária, class
 7.Predição.
 
 ![etapas](Images/Machine%20learn/Etapas%20ML.png)
+
 ## Pipeline
 
 O foco de um pipeline de machine learning é dividir uma tarefa completa de machine learning em um fluxo de trabalho de várias etapas. Cada etapa é um componente gerenciável que pode ser desenvolvido, otimizado, configurado e automatizado individualmente. As etapas são conectadas por meio de interfaces bem definidas.
 
 ![pipeline](Images/Machine%20learn/Pipeline%20ml.PNG)
+
 # Iniciar um projeto big data
 
 - definição do business case
