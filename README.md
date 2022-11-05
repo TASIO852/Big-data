@@ -6,21 +6,21 @@ Big data é a área do conhecimento que estuda como tratar, analisar e obter inf
 
 # Os 4 V's do big data
 
-Os 4 V's do big data sao a base para qualquer projeto na area de dados abaixo eles estao explicados com mais detalahes
+Os 4 V's do big data sao a base para qualquer projeto na area de dados abaixo eles estão explicados com mais detalhes
 
 - Velocidade
-  Hoje em dia a velocidade de coleta e de analiese desses dados e imprensidivel pois as decisoes sao tomadas em questao de momentos pelos gestores
+  Hoje em dia a velocidade de coleta e de analises desses dados e imprevisível pois as decisões sao tomadas em questão de momentos pelos gestores
 - Variedades
 
-  A variedade tambem e muito importante pois nao so de um banco nao relacional vai vir os dados hj em dia tudo e considerado um indicativo para avaliar e tomar decisoes
+  A variedade também e muito importante pois nao so de um banco nao relacional vai vir os dados hj em dia tudo e considerado um indicativo para avaliar e tomar decisões
 
 - Volume
 
-  Conforme vai passando o tempo o volume aumenta de forma consideravel e escalonavel com todas as formas de coleta e formas de analiese
+  Conforme vai passando o tempo o volume aumenta de forma considerável e escalonável com todas as formas de coleta e formas de analises
 
 - Veracidade
 
-  E emprensindivel que os dados passem uma verdadde ao gestor para ele tomar a descisoes precisas com um fundamento base muitp forte por isso a importancia de testes antes de implementar qualquer dashboard ou modelo de analise
+  E imprescindível que os dados passem uma verdade ao gestor para ele tomar a descidões precisas com um fundamento base muito forte por isso a importância de testes antes de implementar qualquer dashboard ou modelo de analise
 
 # Tipo de banco de dados
 
@@ -29,9 +29,9 @@ Os 4 V's do big data sao a base para qualquer projeto na area de dados abaixo el
 - bancos de dados relacionais sao compostos por `esquemas` e sao muito bem estruturados
 - Sao a base dos `DW` Tradicionais que comportam a maior parte dos sistemas internos da empresa como `CRM`
 
-Examplos desses bancos sao:
+Exemplos desses bancos sao:
 
-- postgres
+- Postgres
 - mysql
 - oracle
 
