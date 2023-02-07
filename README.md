@@ -9,7 +9,9 @@ Big data é a área do conhecimento que estuda como tratar, analisar e obter inf
 Os 4 V's do big data sao a base para qualquer projeto na area de dados abaixo eles estão explicados com mais detalhes
 
 - Velocidade
+
   Hoje em dia a velocidade de coleta e de analises desses dados e imprevisível pois as decisões sao tomadas em questão de momentos pelos gestores
+
 - Variedades
 
   A variedade também e muito importante pois nao so de um banco nao relacional vai vir os dados hj em dia tudo e considerado um indicativo para avaliar e tomar decisões
