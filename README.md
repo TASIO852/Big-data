@@ -138,6 +138,35 @@ DataOps é um conjunto de práticas, processos e tecnologias que combina uma per
 
 ![linha de produçao](Images/DevOps/Linha%20de%20produ%C3%A7ao%20data%20ops.PNG)
 
+## Arquitetura de dados principio basico
+
+1. **Introdução à Arquitetura de Dados:**
+   - Definição de arquitetura de dados e sua importância.
+   - Breve histórico e evolução da arquitetura de dados.
+
+2. **Principais Paradigmas e Conceitos em Arquitetura de Dados:**
+   - **Modelagem de Dados:** Discutir sobre modelos relacionais, NoSQL, e NewSQL.
+   - **Data Warehousing e Data Lakes:** Explicar a diferença entre armazenamento de dados estruturados (data warehouses) e não estruturados (data lakes).
+   - **Processamento de Dados em Tempo Real vs. Batch:** Comparar o processamento em tempo real e o processamento em lotes (batch processing).
+   - **Governança de Dados:** Importância da qualidade, segurança, e conformidade dos dados.
+   - **Integração de Dados:** Abordar ETL (Extract, Transform, Load) e ELT (Extract, Load, Transform), bem como integração de dados via APIs.
+     - ![Alt text](src/ETL.jpg)
+3. **Tecnologias Atuais em Arquitetura de Dados:**
+   - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Cassandra.
+     - ![Alt text](<src/Captura de tela 2023-02-28 102924.jpg>)
+   - **Plataformas de Big Data:** Apache Hadoop, Apache Spark.
+   - **Ferramentas de ETL e ELT:** Talend, Apache NiFi, Informatica.
+   - **Soluções de Cloud:** AWS (Amazon Web Services), Azure, Google Cloud Platform – como elas facilitam a arquitetura de dados moderna.
+   - **Ferramentas de Visualização e BI:** Tableau, Power BI, Looker.
+
+4. **Desafios e Tendências Futuras:**
+   - Discussão sobre os desafios atuais, como segurança de dados, escalabilidade e complexidade.
+   - Tendências futuras, incluindo IA (Inteligência Artificial) na gestão de dados, computação em nuvem híbrida, e edge computing.
+
+5. **Conclusão:**
+   - Recapitulação dos pontos chave.
+   - A importância da arquitetura de dados no cenário tecnológico atual e futuro.
+
 # Daas (Data service para o futuro)
 
 DaaS, oferece acesso on-line às bases de dados via interfaces JDBC ou ODBC, com controle de acesso e auditoria de uso. Nele estão disponíveis bases de governo hospedadas no Serpro - com a devida autorização do gestor, bem como bases de domínio público ou ainda outras sob demanda.
